@@ -1,5 +1,5 @@
 Lab 9
-Due: Mon Nov 16, 11:59pm
+
 
 Problem
 Provided with this handout is a file named "movies.csv" which contains information regarding approximately 5,000 movies. Each line contains comma-separated values about each movie in the following order:
